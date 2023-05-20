@@ -1,0 +1,132 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+
+\bibitem[استالینگ(۱۳۸۰)]{2}
+ویلیام استالینگ.
+\newblock \emph{اصول طراحی و ویژگیهای داخلی
+  سیستم‌های عامل}.
+\newblock  ترجمه‌ی محسن صدیقی‌~مشکنانی و حسین
+  پدرام, ویراستار محمود برنجکوب.
+\newblock نشر شیخ بهایی, اصفهان,  ویرایش سوم,
+  بهار ۱۳۸۰.
+
+
+\bibitem[امیدعلی(1382)]{5}
+مهدی امیدعلی.
+\newblock \emph{تابع هیلبرت}.
+\newblock  پایان‌نامه دکترا, دانشکده ریاضی،
+  دانشگاه امیرکبیر, تیر 1382.
+
+
+\bibitem[امین‌طوسی و دیگران(1387)امین‌طوسی,
+  مزینی, و فتحی]{3}
+محمود امین‌طوسی, ناصر مزینی, و محمود فتحی.
+\newblock افزایش وضوح ناحیه‌ای.
+\newblock  در \emph{چهاردهمین کنفرانس ملی سالانه
+  انجمن کامپیوتر ایران},  صفحات  101--108, تهران،
+  ایران, اسفند 1387. دانشگاه امیرکبیر.
+\newblock \url{http://www.civilica.com/Paper-ACCSI14-ACCSI14_107.htm}.
+
+
+\bibitem[خلیقی(۱۳۸۷)]{6}
+وفا خلیقی.
+\newblock زی‌پرشین (\lr{\XePersian}): بسته فارسی برای
+  حروف‌چینی در \lr{\LaTeX2e}.
+\newblock
+  \lr{\href{HTTP://BITBUCKET.ORG/VAFA/XEPERSIAN}{HTTP://BITBUCKET.ORG/VAFA/XEPERSIAN}},
+  ۱۳۸۷.
+
+
+\bibitem[پورموسی(۱۳۸۸)]{4}
+امیرمسعود پورموسی.
+\newblock یک موضوع فیزیک.
+\newblock  پایان‌نامه کارشناسی‌ارشد, دانشکده
+  فیزیک، دانشگاه صنعتی‌شریف, مرداد ۱۳۸۸.
+\newblock (در حال انجام).
+
+
+\bibitem[واحدی(1387)]{1}
+مصطفی واحدی.
+\newblock موضوعی جدید در هندسه محاسباتی.
+\newblock \emph{مجله فارسی نمونه}, 1\penalty0 (2):\penalty0
+  22--30, آبان 1387.
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[امین‌طوسی و دیگران(2009{\natexlab{a}})Amintoosi,
+  Fathy, and Mozayani]{10}
+M.~Amintoosi, M.~Fathy, and N.~Mozayani.
+\newblock Regional varying image super-resolution.
+\newblock  in \emph{IEEE International Joint Conference on Computational
+  Sciences and Optimization}, volume~1, pages 913--917, Sanya, China, April
+  23-26 2009{\natexlab{a}}.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[امین‌طوسی و دیگران(2009{\natexlab{b}})Amintoosi,
+  Fathy, and Mozayani]{7}
+M.~Amintoosi, M.~Fathy, and N.~Mozayani.
+\newblock Precise image registration with structural similarity error
+  measurement applied to super-resolution.
+\newblock \emph{{EURASIP} {J}ournal on {A}pplied {S}ignal {P}rocessing},
+  2009:\penalty0 7 pages, 2009{\natexlab{b}}.
+\newblock URL \url{http://www.hindawi.com/journals/asp/2009/305479.html}.
+\newblock {A}rticle ID 305479.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[گنزالس و وودس(2002)Baker and Kanade]{8}
+Simon Baker and Takeo Kanade.
+\newblock Limits on super-resolution and how to break them.
+\newblock \emph{IEEE Trans. Pattern Anal. Mach. Intell.}, 24\penalty0
+  (9):\penalty0 1167--1183, 2002.
+\newblock ISSN 0162-8828.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[بورمن(2004)Borman]{12}
+Sean Borman.
+\newblock \emph{Topics in Multiframe Superresolution Restoration}.
+\newblock  PhD thesis, University of Notre Dame, Notre Dame, IN, May 2004.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[گنزالس و وودس(2006)Gonzalez and Woods]{9}
+Rafael~C. Gonzalez and Richard~E. Woods.
+\newblock \emph{Digital Image Processing}.
+\newblock Prentice-Hall, Inc., Upper Saddle River, NJ, USA, 3rd edition, 2006.
+\newblock ISBN 013168728X.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[خلیقی(2007)Khalighi]{11}
+Vafa Khalighi.
+\newblock Category theory.
+\newblock  Master's thesis, Sydny Univ., April 2007.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem[شکوهی(2006)Shokoohi]{13}
+Farhad Shokoohi,  editor.
+\newblock \emph{Proceedings of the Xth Conference on XYZ}, October 2006.
+
+\end{LTRbibitems}
+
+\end{thebibliography}
