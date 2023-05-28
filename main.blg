@@ -1,26 +1,78 @@
-This is 8-bit Big BibTeX version 0.99d
-Implementation:  Microsoft(R) C/C++ for Win32
-Release version: 3.72 (05 feb 2022)
+;; This logfile was generated automatically by `xindy'
+;; at 27.05.2023  14:01:07
+;; Indexstyle: "C:\\Users\\mehdimousavi\\Nextcloud\\Work\\ABThesis_V.1.2.5\\OVgZw0J1q1", Rawindex: "C:\\Users\\mehdimousavi\\Nextcloud\\Work\\ABThesis_V.1.2.5\\79w57Glr7E", Output: "main.bls"
 
-The 8-bit codepage and sorting file: cp1256fa.csf
-The top-level auxiliary file: main.aux
-A level-1 auxilliary file: pf.aux
-A level-1 auxilliary file: c1.aux
-A level-1 auxilliary file: c2.aux
-A level-1 auxilliary file: c3.aux
-A level-1 auxilliary file: c4.aux
-A level-1 auxilliary file: appendix.aux
-The style file: plainnat-fa.bst
-Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
-Reallocated global_strs (elt_size=200001) to 10 items from 0.
-Reallocated glb_str_end (elt_size=4) to 10 items from 0.
-Database file #1: refs.bib
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 
-Here's how much of BibTeX's memory you used:
- Cites:                13 out of 750
- Fields:              388 out of 5000
- Hash table:        29716 out of 30000
- Strings:             818 out of 30000
- Free string pool:   8151 out of 65000
- Wizard functions:   3218 out of 6000
+Building indexentry-tree:
+Hierdepth of index is :TREE
+
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+
+Forming letter-groups:
+Letter-group: "‚ž‡ž ¡‚“¡ €¡š‚ (¢Ýò)" -> "Ø§"
+Letter-group: "‡‚¡›‘…" -> "Ø¬"
+Letter-group: "Ÿ‚›Œ‚¡" -> "Ùˆ"
+Letter-group: "˜‚›‹¡" -> "Ù"
+Letter-group: "‹…¡ ˆž‹›‚ž " -> "Ø¯"
+Letter-group: "‹Ÿ‹Ÿ¡¡" -> "Ø¯"
+Letter-group: "ƒ‚ž‹„‚¡ " -> "Ø¨"
+Letter-group: "„ ž‚¡ ƒ‚ž‹" -> "Ù¾"
+Letter-group: "Š‹…" -> "Ø®"
+Letter-group: "š‹‹ ‚Ž" -> "Ú©"
+Letter-group: "‹ ‚Ž" -> "Ø¯"
+Letter-group: "‹ ‚Š…ž" -> "Ø¯"
+Letter-group: "žŸž ƒ‹‚¡" -> "Ù†"
+Letter-group: "žŸž " -> "Ù†"
+Letter-group: "Ž‚žƒž‹¡" -> "Ø²"
+Letter-group: "‚‘…‚š Ž‚ž¡" -> "Ø§"
+Letter-group: "›Œ‹ ¡" -> "Ú¯"
+Letter-group: "‘¡‚ Ž‚ž¡" -> "Ø´"
+Letter-group: "‚˜ŽŸž›¡" -> "Ø§"
+Letter-group: " Ž¡ž " -> "Ù‡"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‚‘…‚š Ž‚ž¡" -> "Ø§"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "ƒ‚ž‹„‚¡ " -> "Ø¨"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "„ ž‚¡ ƒ‚ž‹" -> "Ù¾"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‡‚¡›‘…" -> "Ø¬"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "Š‹…" -> "Ø®"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‹ ‚Š…ž" -> "Ø¯"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "Ž‚žƒž‹¡" -> "Ø²"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‘¡‚ Ž‚ž¡" -> "Ø´"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "˜‚›‹¡" -> "Ù"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "š‹‹ ‚Ž" -> "Ú©"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "›Œ‹ ¡" -> "Ú¯"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "žŸž " -> "Ù†"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "Ÿ‚›Œ‚¡" -> "Ùˆ"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: " Ž¡ž " -> "Ù‡"

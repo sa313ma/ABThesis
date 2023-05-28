@@ -23,5 +23,58 @@
 \providecommand*\glsXpageXhyperemph[2]{\setentrycounter[#1]{page}\hyperemph{#2}}
 \providecommand*\glsXpageXglsignore[2]{\setentrycounter[#1]{page}\glsignore{#2}}
 \begin{theglossary}\glossaryheader
-%
+\glsgroupheading{ا}\relax\glsresetentrylist
+\glossentry{fa-اشتراک زمانی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{fa-افزونگی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{fa-انجمن ریاضی آمریکا (AMS)}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{ب}\relax\glsresetentrylist
+\glossentry{fa-باند‌پایه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{پ}\relax\glsresetentrylist
+\glossentry{fa-پهنای باند}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{ج}\relax\glsresetentrylist
+\glossentry{fa-جایگشت}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{خ}\relax\glsresetentrylist
+\glossentry{fa-خدمت}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{د}\relax\glsresetentrylist
+\glossentry{fa-درهم‌ساختن}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{fa-درهم‌ساز}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{fa-دسترسی چندگانه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{fa-دودویی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{ز}\relax\glsresetentrylist
+\glossentry{fa-زمان‌بندی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{ش}\relax\glsresetentrylist
+\glossentry{fa-شیار زمانی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{ف}\relax\glsresetentrylist
+\glossentry{fa-فراگردی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{ک}\relax\glsresetentrylist
+\glossentry{fa-کددرهم‌ساز}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{گ}\relax\glsresetentrylist
+\glossentry{fa-گذردهی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{ن}\relax\glsresetentrylist
+\glossentry{fa-نمونه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{fa-نمونه‌برداری}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{و}\relax\glsresetentrylist
+\glossentry{fa-واگذاری}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{ه}\relax\glsresetentrylist
+\glossentry{fa-هزینه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}%
 \end{theglossary}\glossarypostamble

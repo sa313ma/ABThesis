@@ -23,5 +23,52 @@
 \providecommand*\glsXpageXhyperemph[2]{\setentrycounter[#1]{page}\hyperemph{#2}}
 \providecommand*\glsXpageXglsignore[2]{\setentrycounter[#1]{page}\glsignore{#2}}
 \begin{theglossary}\glossaryheader
-%
+\glsgroupheading{A}\relax\glsresetentrylist
+\glossentry{en-انجمن ریاضی آمریکا (AMS)}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{B}\relax\glsresetentrylist
+\glossentry{en-پهنای باند}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-باند‌پایه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-دودویی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{C}\relax\glsresetentrylist
+\glossentry{en-هزینه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{H}\relax\glsresetentrylist
+\glossentry{en-جایگشت}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-واگذاری}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{M}\relax\glsresetentrylist
+\glossentry{en-دسترسی چندگانه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{R}\relax\glsresetentrylist
+\glossentry{en-افزونگی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-فراگردی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{S}\relax\glsresetentrylist
+\glossentry{en-نمونه}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-نمونه‌برداری}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-درهم‌ساختن}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-درهم‌ساز}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-خدمت}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-کددرهم‌ساز}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\glsgroupskip
+\glsgroupheading{T}\relax\glsresetentrylist
+\glossentry{en-گذردهی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-اشتراک زمانی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-شیار زمانی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}\relax\glsresetentrylist
+\glossentry{en-زمان‌بندی}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{48}}}%
 \end{theglossary}\glossarypostamble

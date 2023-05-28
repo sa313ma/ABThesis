@@ -2,11 +2,11 @@
 %ABproject,
 ‎ABmsc‎, 
 ‎ABpages‎, 
-ABfinal, 
+‎ABfinal‎, 
 %ABdraft,
 ‎ABfig‎, ‎ABgraph‎,  ‎ABprog‎, ‎ABtab‎, ‎ABalg‎, ‎ABgls‎, ‎ABroom‎, ‎ABindex‎, %
-ABbib, 
-ABnatbib,  
+‎ABbib‎, 
+‎ABnatbib‎,  
 ‎]{ABThesis}‎
 % ‎!TeX root=main.tex‎
 %برای گرفتن خروجی در مقطع دکتری لطفا پارامتر ‎ABmsc‎ را از خط اول حذف کنید.
@@ -18,8 +18,10 @@ ABnatbib,
 ‎%\def\mc#1{\lr{\ttfamily #1}}‎
 ‎%%{\lr{\ttfamily x=[0‎ .‎05‎ .‎10]}}‎
 ‎%\mc{x=[0‎ .‎05‎ .‎10]}‎
-‎\begin{document}‎
 
+
+
+‎\begin{document}‎
 
 
 
@@ -69,10 +71,10 @@ ABnatbib,
 ‎\include{pf}‎
 ‎\pagenumbering{arabic}‎
 ‎\include{c1}%install‎
-‎\include{c2}%pre‎
-‎\include{c3}%packages‎
-‎\include{c4}%xindy‎
-
+‎\include{c2}%pre
+‎\include{c3}‎%math
+‎\include{c4}‎%packages
+\include{‎c5‎}%xindy
 
 
 
@@ -154,6 +156,7 @@ ABnatbib,
 ‎\pagebreak‎
 
 ‎\printcomment‎
+
 
 
 

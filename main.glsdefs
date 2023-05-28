@@ -54,174 +54,6 @@ parent={},%
 %
 }%
 
-\glsdefs@newdocentry{fa-همتافتن}%
-{%
-name={همتافتن},%
-sort={همتافتن},%
-type={persian},%
-first={همتافتن},%
-firstplural={همتافتنs},%
-text={همتافتن},%
-plural={همتافتنs},%
-description={\lr {Multiplex}},%
-descriptionplural={\lr {Multiplex}},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{en-همتافتن}%
-{%
-name={\lr {Multiplex}},%
-sort={Multiplex},%
-type={english},%
-first={\lr {Multiplex}},%
-firstplural={\lr {Multiplex}s},%
-text={\lr {Multiplex}},%
-plural={\lr {Multiplex}s},%
-description={همتافتن},%
-descriptionplural={همتافتن},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{fa-همتافتگر}%
-{%
-name={همتافتگر},%
-sort={همتافتگر},%
-type={persian},%
-first={همتافتگر},%
-firstplural={همتافتگرs},%
-text={همتافتگر},%
-plural={همتافتگرs},%
-description={\lr {Multiplexer}},%
-descriptionplural={\lr {Multiplexer}},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{en-همتافتگر}%
-{%
-name={\lr {Multiplexer}},%
-sort={Multiplexer},%
-type={english},%
-first={\lr {Multiplexer}},%
-firstplural={\lr {Multiplexer}s},%
-text={\lr {Multiplexer}},%
-plural={\lr {Multiplexer}s},%
-description={همتافتگر},%
-descriptionplural={همتافتگر},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{fa-همتافتگری}%
-{%
-name={همتافتگری},%
-sort={همتافتگری},%
-type={persian},%
-first={همتافتگری},%
-firstplural={همتافتگریs},%
-text={همتافتگری},%
-plural={همتافتگریs},%
-description={\lr {Multiplexing}},%
-descriptionplural={\lr {Multiplexing}},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{en-همتافتگری}%
-{%
-name={\lr {Multiplexing}},%
-sort={Multiplexing},%
-type={english},%
-first={\lr {Multiplexing}},%
-firstplural={\lr {Multiplexing}s},%
-text={\lr {Multiplexing}},%
-plural={\lr {Multiplexing}s},%
-description={همتافتگری},%
-descriptionplural={همتافتگری},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
 \glsdefs@newdocentry{fa-دسترسی چندگانه}%
 {%
 name={دسترسی چندگانه},%
@@ -429,6 +261,286 @@ text={\lr {Handoff}},%
 plural={\lr {Handoff}s},%
 description={جایگشت},%
 descriptionplural={جایگشت},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{fa-کددرهم‌ساز}%
+{%
+name={کددرهم‌ساز},%
+sort={کددرهم‌ساز},%
+type={persian},%
+first={کددرهم‌ساز},%
+firstplural={کددرهم‌سازs},%
+text={کددرهم‌ساز},%
+plural={کددرهم‌سازs},%
+description={\lr {Srambling Code}},%
+descriptionplural={\lr {Srambling Code}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{en-کددرهم‌ساز}%
+{%
+name={\lr {Srambling Code}},%
+sort={Srambling Code},%
+type={english},%
+first={\lr {Srambling Code}},%
+firstplural={\lr {Srambling Code}s},%
+text={\lr {Srambling Code}},%
+plural={\lr {Srambling Code}s},%
+description={کددرهم‌ساز},%
+descriptionplural={کددرهم‌ساز},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{fa-خدمت}%
+{%
+name={خدمت},%
+sort={خدمت},%
+type={persian},%
+first={خدمت},%
+firstplural={خدمتs},%
+text={خدمت},%
+plural={خدمتs},%
+description={\lr {Service}},%
+descriptionplural={\lr {Service}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{en-خدمت}%
+{%
+name={\lr {Service}},%
+sort={Service},%
+type={english},%
+first={\lr {Service}},%
+firstplural={\lr {Service}s},%
+text={\lr {Service}},%
+plural={\lr {Service}s},%
+description={خدمت},%
+descriptionplural={خدمت},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{fa-پهنای باند}%
+{%
+name={پهنای باند},%
+sort={پهنای باند},%
+type={persian},%
+first={پهنای باند},%
+firstplural={پهنای باندs},%
+text={پهنای باند},%
+plural={پهنای باندs},%
+description={\lr {Bandwidth}},%
+descriptionplural={\lr {Bandwidth}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{en-پهنای باند}%
+{%
+name={\lr {Bandwidth}},%
+sort={Bandwidth},%
+type={english},%
+first={\lr {Bandwidth}},%
+firstplural={\lr {Bandwidth}s},%
+text={\lr {Bandwidth}},%
+plural={\lr {Bandwidth}s},%
+description={پهنای باند},%
+descriptionplural={پهنای باند},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{fa-باند‌پایه}%
+{%
+name={باند‌پایه},%
+sort={باند‌پایه},%
+type={persian},%
+first={باند‌پایه},%
+firstplural={باند‌پایهs},%
+text={باند‌پایه},%
+plural={باند‌پایهs},%
+description={\lr {Base Band}},%
+descriptionplural={\lr {Base Band}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{en-باند‌پایه}%
+{%
+name={\lr {Base Band}},%
+sort={Base Band},%
+type={english},%
+first={\lr {Base Band}},%
+firstplural={\lr {Base Band}s},%
+text={\lr {Base Band}},%
+plural={\lr {Base Band}s},%
+description={باند‌پایه},%
+descriptionplural={باند‌پایه},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{fa-دودویی}%
+{%
+name={دودویی},%
+sort={دودویی},%
+type={persian},%
+first={دودویی},%
+firstplural={دودوییs},%
+text={دودویی},%
+plural={دودوییs},%
+description={\lr {Binary}},%
+descriptionplural={\lr {Binary}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{en-دودویی}%
+{%
+name={\lr {Binary}},%
+sort={Binary},%
+type={english},%
+first={\lr {Binary}},%
+firstplural={\lr {Binary}s},%
+text={\lr {Binary}},%
+plural={\lr {Binary}s},%
+description={دودویی},%
+descriptionplural={دودویی},%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -989,286 +1101,6 @@ text={\lr {Scrambler}},%
 plural={\lr {Scrambler}s},%
 description={درهم‌ساز},%
 descriptionplural={درهم‌ساز},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{fa-کددرهم‌ساز}%
-{%
-name={کددرهم‌ساز},%
-sort={کددرهم‌ساز},%
-type={persian},%
-first={کددرهم‌ساز},%
-firstplural={کددرهم‌سازs},%
-text={کددرهم‌ساز},%
-plural={کددرهم‌سازs},%
-description={\lr {Srambling Code}},%
-descriptionplural={\lr {Srambling Code}},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{en-کددرهم‌ساز}%
-{%
-name={\lr {Srambling Code}},%
-sort={Srambling Code},%
-type={english},%
-first={\lr {Srambling Code}},%
-firstplural={\lr {Srambling Code}s},%
-text={\lr {Srambling Code}},%
-plural={\lr {Srambling Code}s},%
-description={کددرهم‌ساز},%
-descriptionplural={کددرهم‌ساز},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{fa-خدمت}%
-{%
-name={خدمت},%
-sort={خدمت},%
-type={persian},%
-first={خدمت},%
-firstplural={خدمتs},%
-text={خدمت},%
-plural={خدمتs},%
-description={\lr {Service}},%
-descriptionplural={\lr {Service}},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{en-خدمت}%
-{%
-name={\lr {Service}},%
-sort={Service},%
-type={english},%
-first={\lr {Service}},%
-firstplural={\lr {Service}s},%
-text={\lr {Service}},%
-plural={\lr {Service}s},%
-description={خدمت},%
-descriptionplural={خدمت},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{fa-پهنای باند}%
-{%
-name={پهنای باند},%
-sort={پهنای باند},%
-type={persian},%
-first={پهنای باند},%
-firstplural={پهنای باندs},%
-text={پهنای باند},%
-plural={پهنای باندs},%
-description={\lr {Bandwidth}},%
-descriptionplural={\lr {Bandwidth}},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{en-پهنای باند}%
-{%
-name={\lr {Bandwidth}},%
-sort={Bandwidth},%
-type={english},%
-first={\lr {Bandwidth}},%
-firstplural={\lr {Bandwidth}s},%
-text={\lr {Bandwidth}},%
-plural={\lr {Bandwidth}s},%
-description={پهنای باند},%
-descriptionplural={پهنای باند},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{fa-باند‌پایه}%
-{%
-name={باند‌پایه},%
-sort={باند‌پایه},%
-type={persian},%
-first={باند‌پایه},%
-firstplural={باند‌پایهs},%
-text={باند‌پایه},%
-plural={باند‌پایهs},%
-description={\lr {Base Band}},%
-descriptionplural={\lr {Base Band}},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{en-باند‌پایه}%
-{%
-name={\lr {Base Band}},%
-sort={Base Band},%
-type={english},%
-first={\lr {Base Band}},%
-firstplural={\lr {Base Band}s},%
-text={\lr {Base Band}},%
-plural={\lr {Base Band}s},%
-description={باند‌پایه},%
-descriptionplural={باند‌پایه},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{fa-دودویی}%
-{%
-name={دودویی},%
-sort={دودویی},%
-type={persian},%
-first={دودویی},%
-firstplural={دودوییs},%
-text={دودویی},%
-plural={دودوییs},%
-description={\lr {Binary}},%
-descriptionplural={\lr {Binary}},%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={},%
-longplural={},%
-short={},%
-shortplural={},%
-counter={page},%
-parent={},%
-%
-}%
-
-\glsdefs@newdocentry{en-دودویی}%
-{%
-name={\lr {Binary}},%
-sort={Binary},%
-type={english},%
-first={\lr {Binary}},%
-firstplural={\lr {Binary}s},%
-text={\lr {Binary}},%
-plural={\lr {Binary}s},%
-description={دودویی},%
-descriptionplural={دودویی},%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
